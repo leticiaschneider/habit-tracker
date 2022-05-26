@@ -34,4 +34,4 @@ $ npm run serve
 ## ✨ Contact
 Letícia Araújo Schneider - @leehschneider - leticia.schneider@gmail.com
 
-Project Link: https://github.com/your_username/repo_name
+Project Link: [https://github.com/your_username/repo_name](https://github.com/leticiaschneider/habit-tracker)
